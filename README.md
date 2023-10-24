@@ -9,7 +9,7 @@ Kai LAM - Margot HUET - Yoann LORDINOT - Ghislaine AYBRAM
 
 ## Aperçu du projet
 
-*Page d'accueuil*
+*Page d'accueil*
 ![App Screenshot](/screen/)
 
 ## Tech Stack
@@ -18,17 +18,17 @@ Kai LAM - Margot HUET - Yoann LORDINOT - Ghislaine AYBRAM
 
 ## API références
 
-#### Pour aller chercher la nationalité à partir du prénom
-GET /api.nationalize.io/?name=${nom.value}
+**Pour aller chercher la nationalité à partir du prénom**
+api.nationalize.io/?name=${nom.value}
 
-#### Pour aller chercher le nom du pays à partir du code pays
-GET /happyapi.fr/api/getLands/result/result/${codePays}
+**Pour aller chercher le nom du pays à partir du code pays**
+happyapi.fr/api/getLands/result/result/${codePays}
 
-#### Pour aller chercher le drapeau du pays à partir du code pays
-GET /flagsapi.com/${codePays}/shiny/64.png
+**Pour aller chercher le drapeau du pays à partir du code pays**
+flagsapi.com/${codePays}/shiny/64.png
 
-#### Pour aller chercher l'âge à partir du prénom et de la nationalité (validée par l'utilisateur)
-GET /api.agify.io/?name=${nom.value}&country_id=${countryId}
+**Pour aller chercher l'âge à partir du prénom et de la nationalité (validée par l'utilisateur)**
+api.agify.io/?name=${nom.value}&country_id=${countryId}
 
 ## Fonctionnalités
 - [x] utilisation de fonctions asynchrones pour envoyer des requêtes API,
