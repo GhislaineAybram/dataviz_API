@@ -31,9 +31,11 @@ GET /flagsapi.com/${codePays}/shiny/64.png
 GET /api.agify.io/?name=${nom.value}&country_id=${countryId}
 
 ## Fonctionnalités
-- [x] appliquer l’asynchrone,
-- [x] se connecter à plusieurs API,
+- [x] utilisation de fonctions asynchrones pour envoyer des requêtes API,
+- [x] connections à plusieurs API,
 - [x] manipulation du CSS et du HTML,
+- [x] mise en place d'un site web responsive design,
+- [x] création d'événements (déclenchement d'animations, de transitions visuelles...).
   
 ## Reste à implémenter
 - [ ] créer une visualisation des données différente (pour les nationalités possibles en fonction du prénom de l'utilisateur) par exemple sous forme de camembert ou d'histogramme.
