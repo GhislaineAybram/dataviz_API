@@ -9,8 +9,17 @@ Kai LAM - Margot HUET - Yoann LORDINOT - Ghislaine AYBRAM
 
 ## Aperçu du projet
 
-*Page d'accueil*
-![App Screenshot](/screen/)
+*Page d'accueil du site de prédictions de Madame Kymg*
+![App Screenshot](/screen/predictions_accueil.jpg)
+
+*Après avoir saisi son prénom l'utilisateur se voit prédire sa nationalité*
+![App Screenshot](/screen/predictions_nationalite.jpg)
+
+*Une fois la nationalité validée, Madame Kymg prédit l'âge de l'utilisateur*
+![App Screenshot](/screen/predictions_age.jpg)
+
+*Element de notation sur 5 étoiles en fin de prédiction*
+![App Screenshot](/screen/predictions_notation%20finale.jpg)
 
 ## Tech Stack
 
