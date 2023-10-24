@@ -7,6 +7,10 @@ Ce projet a pour objectif de développer une application web qui permette de vis
 
 Kai LAM - Margot HUET - Yoann LORDINOT - Ghislaine AYBRAM
 
+## Demo
+
+https://ghislaineaybram.github.io/dataviz_API/
+
 ## Aperçu du projet
 
 *Page d'accueil du site de prédictions de Madame Kymg*
